@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_red_bay_nlqu0005.json?time&time>=now-2hours&distinct()
 status: up
 code: 200
-responseTime: 116
-lastUpdated: 2023-04-11T16:23:29.886Z
+responseTime: 896
+lastUpdated: 2023-04-11T16:39:02.601Z
 startTime: Tue Apr 11 2023 16:17:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
