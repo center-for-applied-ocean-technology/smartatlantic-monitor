@@ -219,16 +219,15 @@ sites:
   url: https://www.smartatlantic.ca/erddap/tabledap/SmartAtlantic_XEOS_hkb_buoy.json?time&time>=now-120minutes&distinct()
 status-website:
   baseUrl: /smartatlantic-monitor
-  introMessage: "This is a sample status page which uses **real-time** data from our\
-    \ [GitHub repository](https://github.com/upptime/upptime). No server required\
-    \ \xE2\u20AC\u201D just GitHub Actions, Issues, and Pages. [**Get your own for\
-    \ free**](https://github.com/upptime/upptime)"
-  introTitle: '**Upptime** is the open-source uptime monitor and status page, powered
-    entirely by GitHub.'
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  introMessage: "This repository monitors the SmartAtlantic ocean observation service and its real-time datasets and is powered by [**Upptime**](https://github.com/upptime/upptime)"
+  introTitle: 'SmartAtlantic website and real-time dataset monitor'
+  logoUrl: https://www.smartatlantic.ca/images/SmartAtlantic_Logo_v2_500px.png
   name: SmartAtlantic Monitor
   navbar:
   - href: /
     title: Status
   - href: https://github.com/$OWNER/$REPO
     title: GitHub
+  metaTags:
+  - name: "robots"
+    content: "noindex"
