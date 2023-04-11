@@ -112,18 +112,20 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-20minutes&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "eccc-opp-44488-east-chedabucto-bay",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1398,
-    "timeDay": 1398,
-    "timeWeek": 1398,
-    "timeMonth": 1398,
-    "timeYear": 1398,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 1459,
+    "timeDay": 1459,
+    "timeWeek": 1459,
+    "timeMonth": 1459,
+    "timeYear": 1459,
+    "dailyMinutesDown": {
+      "2023-04-11": 2
+    }
   },
   {
     "name": "ECCC OPP, 44489, West Chedabucto Bay",
@@ -160,7 +162,7 @@
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 427
     }
   },
   {
@@ -198,7 +200,7 @@
     "timeMonth": 2093,
     "timeYear": 2093,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 427
     }
   },
   {
@@ -206,19 +208,19 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/DFO_Sutron_POOLC.json?time&time>=now-2hours&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-pool-s-cove-poolc",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 2113,
-    "timeDay": 2113,
-    "timeWeek": 2113,
-    "timeMonth": 2113,
-    "timeYear": 2113,
+    "status": "up",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
+    "time": 1825,
+    "timeDay": 1825,
+    "timeWeek": 1825,
+    "timeMonth": 1825,
+    "timeYear": 1825,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 426
     }
   },
   {
@@ -310,7 +312,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 427
     }
   },
   {
@@ -330,7 +332,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 427
     }
   },
   {
@@ -350,7 +352,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 417
+      "2023-04-11": 427
     }
   },
   {
@@ -370,7 +372,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 416
+      "2023-04-11": 426
     }
   },
   {
@@ -390,7 +392,7 @@
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2023-04-11": 416
+      "2023-04-11": 426
     }
   },
   {
@@ -536,7 +538,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 416
+      "2023-04-11": 426
     }
   },
   {
@@ -556,7 +558,7 @@
     "timeMonth": 2080,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2023-04-11": 416
+      "2023-04-11": 426
     }
   },
   {
@@ -565,11 +567,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "placentia-bay-ragged-islands-klumi",
     "status": "up",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "2.46%",
+    "uptimeDay": "2.46%",
+    "uptimeWeek": "2.46%",
+    "uptimeMonth": "2.46%",
+    "uptimeYear": "2.46%",
     "time": 1797,
     "timeDay": 1797,
     "timeWeek": 1797,
@@ -632,7 +634,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 416
+      "2023-04-11": 425
     }
   },
   {
