@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_atlantic.json?time&time>=now-20minutes&distinct()
 status: up
 code: 200
-responseTime: 1979
-lastUpdated: 2023-04-11T16:38:57.423Z
+responseTime: 2292
+lastUpdated: 2023-04-11T16:44:51.117Z
 startTime: Tue Apr 11 2023 16:17:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
