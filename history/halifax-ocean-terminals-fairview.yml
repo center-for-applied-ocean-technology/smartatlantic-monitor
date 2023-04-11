@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_fairview.json?time&time>=now-20minutes&distinct()
-status: down
-code: 404
-responseTime: 2068
-lastUpdated: 2023-04-11T19:43:20.470Z
+status: up
+code: 200
+responseTime: 4805
+lastUpdated: 2023-04-11T19:56:20.141Z
 startTime: Tue Apr 11 2023 16:16:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
