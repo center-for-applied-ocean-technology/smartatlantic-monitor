@@ -5,6 +5,18 @@ sites:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
+  name: SmartAtlantic
+  url: https://www.smartatlantic.ca
+- assignees:
+  - sjbruce
+  - RichardJKelly
+  maxResponseTime: 5000
+  name: SmartAtlantic ERDDAP
+  url: https://www.smartatlantic.ca/erddap/index.html
+- assignees:
+  - sjbruce
+  - RichardJKelly
+  maxResponseTime: 5000
   name: Channel-Port Aux Basques Buoy
   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_port_aux_basques.json?time&time>=now-240minutes&distinct()
 - assignees:
