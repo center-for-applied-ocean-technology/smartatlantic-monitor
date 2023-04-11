@@ -219,7 +219,7 @@ sites:
   url: https://www.smartatlantic.ca/erddap/tabledap/SmartAtlantic_XEOS_hkb_buoy.json?time&time>=now-120minutes&distinct()
 status-website:
   baseUrl: /smartatlantic-monitor
-  introMessage: "This repository monitors the SmartAtlantic ocean observation service and its real-time datasets and is powered by [**Upptime**](https://github.com/upptime/upptime)"
+  introMessage: "This repository monitors the SmartAtlantic ocean observation service and its real-time datasets. It is powered by [**Upptime**](https://github.com/upptime/upptime)."
   introTitle: 'SmartAtlantic website and real-time dataset monitor'
   logoUrl: https://www.smartatlantic.ca/images/SmartAtlantic_Logo_v2_500px.png
   name: SmartAtlantic Monitor
