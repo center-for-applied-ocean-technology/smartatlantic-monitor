@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_pier9c.json?time&time>=now-20minutes&distinct()
 status: up
 code: 200
-responseTime: 1780
-lastUpdated: 2023-04-11T16:16:53.860Z
+responseTime: 2059
+lastUpdated: 2023-04-11T16:22:54.247Z
 startTime: Tue Apr 11 2023 16:16:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
