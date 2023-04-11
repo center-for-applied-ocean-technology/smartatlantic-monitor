@@ -58,19 +58,19 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/SMA_port_aux_basqes_wharf.json?time&time>=now-20minutes&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "channel-port-aux-basques-tide-station",
-    "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.91%",
-    "time": 3166,
-    "timeDay": 3166,
-    "timeWeek": 3166,
-    "timeMonth": 3166,
-    "timeYear": 3166,
+    "status": "up",
+    "uptime": "94.81%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "94.81%",
+    "time": 3294,
+    "timeDay": 3294,
+    "timeWeek": 3294,
+    "timeMonth": 3294,
+    "timeYear": 3294,
     "dailyMinutesDown": {
-      "2023-04-11": 2
+      "2023-04-11": 12
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-11": 222
+      "2023-04-11": 233
     }
   },
   {
@@ -200,7 +200,7 @@
     "timeMonth": 2093,
     "timeYear": 2093,
     "dailyMinutesDown": {
-      "2023-04-11": 222
+      "2023-04-11": 233
     }
   },
   {
@@ -209,18 +209,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-pool-s-cove-poolc",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 2113,
     "timeDay": 2113,
     "timeWeek": 2113,
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 233
     }
   },
   {
@@ -247,19 +247,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-fairview",
     "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2747,
     "timeDay": 2747,
     "timeWeek": 2747,
     "timeMonth": 2747,
     "timeYear": 2747,
-    "dailyMinutesDown": {
-      "2023-04-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Halifax Ocean Terminals: Pier 31",
@@ -267,19 +265,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-pier-31",
     "status": "up",
-    "uptime": "94.10%",
-    "uptimeDay": "94.10%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2503,
     "timeDay": 2503,
     "timeWeek": 2503,
     "timeMonth": 2503,
     "timeYear": 2503,
-    "dailyMinutesDown": {
-      "2023-04-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Halifax Ocean Terminals: Pier 9C",
@@ -287,19 +283,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-pier-9-c",
     "status": "up",
-    "uptime": "94.07%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "94.07%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2132,
     "timeDay": 2132,
     "timeWeek": 2132,
     "timeMonth": 2132,
     "timeYear": 2132,
-    "dailyMinutesDown": {
-      "2023-04-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Holyrood Buoy 1, Raw Wind Data",
@@ -318,7 +312,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 233
     }
   },
   {
@@ -338,7 +332,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 233
     }
   },
   {
@@ -347,18 +341,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "holyrood-shore-station-test",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 2081,
     "timeDay": 2081,
     "timeWeek": 2081,
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 232
     }
   },
   {
@@ -378,7 +372,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 232
     }
   },
   {
@@ -398,7 +392,7 @@
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2023-04-11": 221
+      "2023-04-11": 232
     }
   },
   {
@@ -544,7 +538,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 220
+      "2023-04-11": 232
     }
   },
   {
@@ -564,7 +558,7 @@
     "timeMonth": 2080,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2023-04-11": 220
+      "2023-04-11": 232
     }
   },
   {
@@ -584,7 +578,7 @@
     "timeMonth": 2207,
     "timeYear": 2207,
     "dailyMinutesDown": {
-      "2023-04-11": 220
+      "2023-04-11": 232
     }
   },
   {
@@ -629,18 +623,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "st-john-s-buoy",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 2082,
     "timeDay": 2082,
     "timeWeek": 2082,
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-11": 220
+      "2023-04-11": 231
     }
   },
   {
