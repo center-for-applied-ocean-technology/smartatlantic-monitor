@@ -1,5 +1,5 @@
-owner: center-for-applied-ocean-technology
-repo: smartatlantic-monitor
+owner: upptime
+repo: upptime
 sites:
 - assignees:
   - sjbruce
@@ -214,7 +214,7 @@ status-website:
   introTitle: '**Upptime** is the open-source uptime monitor and status page, powered
     entirely by GitHub.'
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: SmartAtlantic Monitor
+  name: Upptime
   navbar:
   - href: /
     title: Status
