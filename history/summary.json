@@ -112,18 +112,20 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-20minutes&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "eccc-opp-44488-east-chedabucto-bay",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 1428,
-    "timeWeek": 1428,
-    "timeMonth": 1428,
-    "timeYear": 1428,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1486,
+    "timeDay": 1486,
+    "timeWeek": 1486,
+    "timeMonth": 1486,
+    "timeYear": 1486,
+    "dailyMinutesDown": {
+      "2023-04-12": 1
+    }
   },
   {
     "name": "ECCC OPP, 44489, West Chedabucto Bay",
@@ -160,7 +162,7 @@
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 464
     }
   },
@@ -188,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-dog-island-dogis",
     "status": "up",
-    "uptime": "4.63%",
-    "uptimeDay": "4.63%",
-    "uptimeWeek": "4.63%",
-    "uptimeMonth": "4.63%",
-    "uptimeYear": "4.63%",
+    "uptime": "18.26%",
+    "uptimeDay": "18.26%",
+    "uptimeWeek": "18.26%",
+    "uptimeMonth": "18.26%",
+    "uptimeYear": "18.26%",
     "time": 1705,
     "timeDay": 1705,
     "timeWeek": 1705,
@@ -209,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-pool-s-cove-poolc",
     "status": "up",
-    "uptime": "18.27%",
-    "uptimeDay": "18.27%",
-    "uptimeWeek": "18.27%",
-    "uptimeMonth": "18.27%",
-    "uptimeYear": "18.27%",
+    "uptime": "29.96%",
+    "uptimeDay": "29.96%",
+    "uptimeWeek": "29.96%",
+    "uptimeMonth": "29.96%",
+    "uptimeYear": "29.96%",
     "time": 1825,
     "timeDay": 1825,
     "timeWeek": 1825,
@@ -312,7 +314,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 463
     }
   },
@@ -333,7 +335,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 463
     }
   },
@@ -354,7 +356,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 463
     }
   },
@@ -375,7 +377,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 463
     }
   },
@@ -396,7 +398,7 @@
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 462
     }
   },
@@ -543,7 +545,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 462
     }
   },
@@ -564,7 +566,7 @@
     "timeMonth": 2080,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 462
     }
   },
@@ -574,11 +576,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "placentia-bay-ragged-islands-klumi",
     "status": "up",
-    "uptime": "20.09%",
-    "uptimeDay": "20.09%",
-    "uptimeWeek": "20.09%",
-    "uptimeMonth": "20.09%",
-    "uptimeYear": "20.09%",
+    "uptime": "31.55%",
+    "uptimeDay": "31.55%",
+    "uptimeWeek": "31.55%",
+    "uptimeMonth": "31.55%",
+    "uptimeYear": "31.55%",
     "time": 1797,
     "timeDay": 1797,
     "timeWeek": 1797,
@@ -641,7 +643,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 58,
+      "2023-04-12": 145,
       "2023-04-11": 461
     }
   },
