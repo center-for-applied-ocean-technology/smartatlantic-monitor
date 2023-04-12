@@ -42,19 +42,19 @@ sites:
   - RichardJKelly
   maxResponseTime: 5000
   name: ECCC OPP, 44488, East Chedabucto Bay
-  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: ECCC OPP, 44489, West Chedabucto Bay
-  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44489_west_chedabucto_bay.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44489_west_chedabucto_bay.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: ECCC OPP, 44490, West Bay of Fundy
-  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
@@ -84,19 +84,19 @@ sites:
   - RichardJKelly
   maxResponseTime: 5000
   name: 'Halifax Ocean Terminals: Fairview'
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_fairview.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_fairview.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: 'Halifax Ocean Terminals: Pier 31'
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_anemometer1.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_anemometer1.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: 'Halifax Ocean Terminals: Pier 9C'
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_pier9c.json?time&time>=now-20minutes&distinct()
+  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_pier9c.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
