@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_anemometer1.json?time&time>=now-20minutes&distinct()
-status: up
-code: 200
-responseTime: 2425
-lastUpdated: 2023-04-12T05:46:52.612Z
+status: down
+code: 404
+responseTime: 2210
+lastUpdated: 2023-04-12T05:53:28.609Z
 startTime: Tue Apr 11 2023 16:16:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
