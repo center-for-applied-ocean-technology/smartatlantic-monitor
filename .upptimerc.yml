@@ -49,12 +49,12 @@ sites:
   maxResponseTime: 5000
   name: ECCC OPP, 44489, West Chedabucto Bay
   url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44489_west_chedabucto_bay.json?time&time>=now-60minutes&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: ECCC OPP, 44490, West Bay of Fundy
-  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-60minutes&distinct()
+# - assignees:
+#   - sjbruce
+#   - RichardJKelly
+#   maxResponseTime: 5000
+#   name: ECCC OPP, 44490, West Bay of Fundy
+#   url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-60minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
@@ -97,42 +97,36 @@ sites:
   maxResponseTime: 5000
   name: 'Halifax Ocean Terminals: Pier 9C'
   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_halifax_pier9c.json?time&time>=now-60minutes&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: Holyrood Buoy 1, Raw Wind Data
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_Holyrood_Buoy1_wind_raw.json?time&time>=now-10min&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: Holyrood Buoy 2
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_Holyrood_Buoy2.json?time&time>=now-120minutes&distinct()
+# - assignees:
+#   - sjbruce
+#   - RichardJKelly
+#   maxResponseTime: 5000
+#   name: Holyrood Buoy 1, Raw Wind Data
+#   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_Holyrood_Buoy1_wind_raw.json?time&time>=now-10min&distinct()
+# - assignees:
+#   - sjbruce
+#   - RichardJKelly
+#   maxResponseTime: 5000
+#   name: Holyrood Buoy 2
+#   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_Holyrood_Buoy2.json?time&time>=now-120minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: Holyrood Shore Station, Test
   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_holyrood_shore_station.json?time&time>=now-10min&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: Holyrood Wharf Weather Station
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_holyrood_wharf.json?time&time>=now-44minutes&distinct()
+# - assignees:
+#   - sjbruce
+#   - RichardJKelly
+#   maxResponseTime: 5000
+#   name: Holyrood Wharf Weather Station
+#   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_holyrood_wharf.json?time&time>=now-44minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
   maxResponseTime: 5000
   name: Mouth of Placentia Bay Buoy
   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_MouthofPlacentiaBayBuoy.json?time&time>=now-60minutes&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: MSC Datamart realtime moored buoy data
-  url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_atlantic.json?time&time>=now-20minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
@@ -199,12 +193,12 @@ sites:
   maxResponseTime: 5000
   name: Shipissipan, Remote Automatic Weather Station (RAWS), Nitassinan
   url: https://www.smartatlantic.ca/erddap/tabledap/parks_canada_shipissipan.json?time&time>=now-2hour&distinct()
-- assignees:
-  - sjbruce
-  - RichardJKelly
-  maxResponseTime: 5000
-  name: St. John's Buoy
-  url: https://www.smartatlantic.ca/erddap/tabledap/SMA_st_johns.json?time&time>=now-120minutes&distinct()
+# - assignees:
+#   - sjbruce
+#   - RichardJKelly
+#   maxResponseTime: 5000
+#   name: St. John's Buoy
+#   url: https://www.smartatlantic.ca/erddap/tabledap/SMA_st_johns.json?time&time>=now-120minutes&distinct()
 - assignees:
   - sjbruce
   - RichardJKelly
