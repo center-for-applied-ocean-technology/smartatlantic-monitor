@@ -112,19 +112,19 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-20minutes&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "eccc-opp-44488-east-chedabucto-bay",
-    "status": "up",
-    "uptime": "96.18%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "96.18%",
-    "uptimeMonth": "96.18%",
-    "uptimeYear": "96.18%",
-    "time": 1465,
-    "timeDay": 1465,
-    "timeWeek": 1465,
-    "timeMonth": 1465,
-    "timeYear": 1465,
+    "status": "down",
+    "uptime": "96.01%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.01%",
+    "uptimeYear": "96.01%",
+    "time": 1510,
+    "timeDay": 1510,
+    "timeWeek": 1510,
+    "timeMonth": 1510,
+    "timeYear": 1510,
     "dailyMinutesDown": {
-      "2023-04-12": 24
+      "2023-04-12": 26
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 464
     }
   },
@@ -190,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-dog-island-dogis",
     "status": "up",
-    "uptime": "21.36%",
-    "uptimeDay": "21.36%",
-    "uptimeWeek": "21.36%",
-    "uptimeMonth": "21.36%",
-    "uptimeYear": "21.36%",
+    "uptime": "22.99%",
+    "uptimeDay": "22.99%",
+    "uptimeWeek": "22.99%",
+    "uptimeMonth": "22.99%",
+    "uptimeYear": "22.99%",
     "time": 1705,
     "timeDay": 1705,
     "timeWeek": 1705,
@@ -211,11 +211,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-pool-s-cove-poolc",
     "status": "up",
-    "uptime": "32.62%",
-    "uptimeDay": "32.62%",
-    "uptimeWeek": "32.62%",
-    "uptimeMonth": "32.62%",
-    "uptimeYear": "32.62%",
+    "uptime": "34.02%",
+    "uptimeDay": "34.02%",
+    "uptimeWeek": "34.02%",
+    "uptimeMonth": "34.02%",
+    "uptimeYear": "34.02%",
     "time": 1825,
     "timeDay": 1825,
     "timeWeek": 1825,
@@ -314,7 +314,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 463
     }
   },
@@ -335,7 +335,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 463
     }
   },
@@ -356,7 +356,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 463
     }
   },
@@ -377,7 +377,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 463
     }
   },
@@ -398,7 +398,7 @@
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 462
     }
   },
@@ -545,7 +545,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 462
     }
   },
@@ -566,7 +566,7 @@
     "timeMonth": 2080,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 462
     }
   },
@@ -576,11 +576,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "placentia-bay-ragged-islands-klumi",
     "status": "up",
-    "uptime": "34.14%",
-    "uptimeDay": "34.14%",
-    "uptimeWeek": "34.14%",
-    "uptimeMonth": "34.14%",
-    "uptimeYear": "34.14%",
+    "uptime": "35.52%",
+    "uptimeDay": "35.52%",
+    "uptimeWeek": "35.52%",
+    "uptimeMonth": "35.52%",
+    "uptimeYear": "35.52%",
     "time": 1797,
     "timeDay": 1797,
     "timeWeek": 1797,
@@ -643,7 +643,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 169,
+      "2023-04-12": 182,
       "2023-04-11": 461
     }
   },
