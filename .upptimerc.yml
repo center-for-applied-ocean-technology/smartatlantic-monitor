@@ -222,7 +222,7 @@ status-website:
   introMessage: "This repository monitors the SmartAtlantic ocean observation service and its real-time datasets. It is powered by [**Upptime**](https://github.com/upptime/upptime)."
   introTitle: 'SmartAtlantic website and real-time dataset monitor'
   logoUrl: https://www.smartatlantic.ca/images/SmartAtlantic_Logo_v2_500px.png
-  name: SmartAtlantic Monitor
+  name: Monitor
   navbar:
   - href: /
     title: Status
