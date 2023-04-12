@@ -1,7 +1,7 @@
-url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-20minutes&distinct()
+url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44490_west_bay_of_fundy.json?time&time>=now-60minutes&distinct()
 status: down
 code: 404
-responseTime: 2151
-lastUpdated: 2023-04-12T14:18:10.660Z
+responseTime: 2086
+lastUpdated: 2023-04-12T16:41:09.546Z
 startTime: Tue Apr 11 2023 16:16:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
