@@ -112,19 +112,19 @@
     "url": "https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44488_east_chedabucto_bay.json?time&time>=now-20minutes&distinct()",
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "eccc-opp-44488-east-chedabucto-bay",
-    "status": "down",
-    "uptime": "94.29%",
-    "uptimeDay": "94.29%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "94.29%",
-    "uptimeYear": "94.29%",
-    "time": 1455,
-    "timeDay": 1455,
-    "timeWeek": 1455,
-    "timeMonth": 1455,
-    "timeYear": 1455,
+    "status": "up",
+    "uptime": "93.82%",
+    "uptimeDay": "93.82%",
+    "uptimeWeek": "93.82%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "93.82%",
+    "time": 1444,
+    "timeDay": 1444,
+    "timeWeek": 1444,
+    "timeMonth": 1444,
+    "timeYear": 1444,
     "dailyMinutesDown": {
-      "2023-04-12": 57
+      "2023-04-12": 62
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 2113,
     "timeYear": 2113,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 464
     }
   },
@@ -172,11 +172,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-buoy",
     "status": "up",
-    "uptime": "88.90%",
-    "uptimeDay": "88.90%",
-    "uptimeWeek": "88.90%",
-    "uptimeMonth": "88.90%",
-    "uptimeYear": "88.90%",
+    "uptime": "88.97%",
+    "uptimeDay": "88.97%",
+    "uptimeWeek": "88.97%",
+    "uptimeMonth": "88.97%",
+    "uptimeYear": "88.97%",
     "time": 1225,
     "timeDay": 1225,
     "timeWeek": 1225,
@@ -192,11 +192,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-dog-island-dogis",
     "status": "up",
-    "uptime": "50.08%",
-    "uptimeDay": "50.08%",
-    "uptimeWeek": "50.08%",
-    "uptimeMonth": "50.08%",
-    "uptimeYear": "50.08%",
+    "uptime": "50.40%",
+    "uptimeDay": "50.40%",
+    "uptimeWeek": "50.40%",
+    "uptimeMonth": "50.40%",
+    "uptimeYear": "50.40%",
     "time": 1705,
     "timeDay": 1705,
     "timeWeek": 1705,
@@ -213,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "fortune-bay-pool-s-cove-poolc",
     "status": "up",
-    "uptime": "57.23%",
-    "uptimeDay": "57.23%",
-    "uptimeWeek": "57.23%",
-    "uptimeMonth": "57.23%",
-    "uptimeYear": "57.23%",
+    "uptime": "57.50%",
+    "uptimeDay": "57.50%",
+    "uptimeWeek": "57.50%",
+    "uptimeMonth": "57.50%",
+    "uptimeYear": "57.50%",
     "time": 1825,
     "timeDay": 1825,
     "timeWeek": 1825,
@@ -251,18 +251,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-fairview",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.22%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
     "time": 2430,
     "timeDay": 2430,
     "timeWeek": 2430,
     "timeMonth": 2430,
     "timeYear": 2430,
     "dailyMinutesDown": {
-      "2023-04-12": 1
+      "2023-04-12": 8
     }
   },
   {
@@ -271,18 +271,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-pier-31",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.23%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 2342,
     "timeDay": 2342,
     "timeWeek": 2342,
     "timeMonth": 2342,
     "timeYear": 2342,
     "dailyMinutesDown": {
-      "2023-04-12": 1
+      "2023-04-12": 8
     }
   },
   {
@@ -291,18 +291,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "halifax-ocean-terminals-pier-9-c",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
     "time": 2256,
     "timeDay": 2256,
     "timeWeek": 2256,
     "timeMonth": 2256,
     "timeYear": 2256,
     "dailyMinutesDown": {
-      "2023-04-12": 1
+      "2023-04-12": 8
     }
   },
   {
@@ -322,7 +322,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 463
     }
   },
@@ -343,7 +343,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 463
     }
   },
@@ -364,7 +364,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 463
     }
   },
@@ -385,7 +385,7 @@
     "timeMonth": 2081,
     "timeYear": 2081,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 463
     }
   },
@@ -406,7 +406,7 @@
     "timeMonth": 2087,
     "timeYear": 2087,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 462
     }
   },
@@ -553,7 +553,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 462
     }
   },
@@ -574,7 +574,7 @@
     "timeMonth": 2080,
     "timeYear": 2080,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 462
     }
   },
@@ -584,11 +584,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "placentia-bay-ragged-islands-klumi",
     "status": "up",
-    "uptime": "58.23%",
-    "uptimeDay": "58.23%",
-    "uptimeWeek": "58.23%",
-    "uptimeMonth": "58.23%",
-    "uptimeYear": "58.23%",
+    "uptime": "58.50%",
+    "uptimeDay": "58.50%",
+    "uptimeWeek": "58.50%",
+    "uptimeMonth": "58.50%",
+    "uptimeYear": "58.50%",
     "time": 1797,
     "timeDay": 1797,
     "timeWeek": 1797,
@@ -651,7 +651,7 @@
     "timeMonth": 2082,
     "timeYear": 2082,
     "dailyMinutesDown": {
-      "2023-04-12": 532,
+      "2023-04-12": 539,
       "2023-04-11": 461
     }
   },
