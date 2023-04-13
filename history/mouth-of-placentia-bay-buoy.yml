@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_MouthofPlacentiaBayBuoy.json?time&time>=now-60minutes&distinct()
 status: down
 code: 404
-responseTime: 2061
-lastUpdated: 2023-04-12T23:23:23.706Z
+responseTime: 2129
+lastUpdated: 2023-04-13T23:14:40.562Z
 startTime: Tue Apr 11 2023 16:17:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
