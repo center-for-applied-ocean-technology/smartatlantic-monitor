@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/cove_weather_station_idartm1.json?time&time>=now-30min&distinct()
 status: up
 code: 200
-responseTime: 164
-lastUpdated: 2023-04-17T23:13:56.745Z
+responseTime: 137
+lastUpdated: 2023-04-18T23:14:00.105Z
 startTime: Tue Apr 11 2023 16:16:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
