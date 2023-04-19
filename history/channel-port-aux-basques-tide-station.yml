@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_port_aux_basqes_wharf.json?time&time>=now-20minutes&distinct()
 status: up
 code: 200
-responseTime: 1515
-lastUpdated: 2023-04-18T23:13:59.693Z
+responseTime: 2227
+lastUpdated: 2023-04-19T23:14:19.109Z
 startTime: Tue Apr 11 2023 16:16:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
