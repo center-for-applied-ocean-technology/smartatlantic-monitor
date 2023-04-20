@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_north_west_river_nlqu0007.json?time&time>=now-2hours&distinct()
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2023-04-19T23:15:03.113Z
+status: down
+code: 404
+responseTime: 2139
+lastUpdated: 2023-04-20T06:29:24.139Z
 startTime: Tue Apr 11 2023 16:17:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
