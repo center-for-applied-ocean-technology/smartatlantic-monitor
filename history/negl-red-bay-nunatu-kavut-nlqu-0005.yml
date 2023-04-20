@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_red_bay_nlqu0005.json?time&time>=now-2hours&distinct()
-status: down
-code: 404
-responseTime: 2230
-lastUpdated: 2023-04-20T05:57:38.879Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2023-04-20T06:50:34.622Z
 startTime: Tue Apr 11 2023 16:17:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
