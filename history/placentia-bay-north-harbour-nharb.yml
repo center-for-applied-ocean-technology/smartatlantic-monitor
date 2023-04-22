@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/DFO_Sutron_NHARB.json?time&time>=now-2hours&distinct()
-status: down
-code: 404
-responseTime: 2755
-lastUpdated: 2023-04-21T23:15:27.608Z
+status: up
+code: 200
+responseTime: 927
+lastUpdated: 2023-04-22T13:21:59.677Z
 startTime: Tue Apr 11 2023 16:17:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
