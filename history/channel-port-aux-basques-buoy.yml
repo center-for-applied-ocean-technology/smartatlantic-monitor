@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_port_aux_basques.json?time&time>=now-240minutes&distinct()
-status: degraded
-code: 503
-responseTime: 21154
-lastUpdated: 2023-04-22T05:32:05.305Z
+status: down
+code: 404
+responseTime: 1079
+lastUpdated: 2023-04-22T05:37:27.618Z
 startTime: Tue Apr 11 2023 16:16:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
