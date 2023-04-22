@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_saint_john_cruise_terminal.json?time&time>=now-20minutes&distinct()
-status: down
-code: 503
-responseTime: 1130
-lastUpdated: 2023-04-22T05:32:21.876Z
+status: up
+code: 200
+responseTime: 3370
+lastUpdated: 2023-04-22T05:50:04.848Z
 startTime: Tue Apr 11 2023 16:16:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
