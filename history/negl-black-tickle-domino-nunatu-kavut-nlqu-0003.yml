@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_black_tickle_nlqu0003.json?time&time>=now-2hours&distinct()
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2023-04-23T23:13:56.912Z
+status: down
+code: 404
+responseTime: 2152
+lastUpdated: 2023-04-24T06:54:25.517Z
 startTime: Tue Apr 11 2023 16:17:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
