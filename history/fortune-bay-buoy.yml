@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_Fortune_Bay_Buoy.json?time&time>=now-120minutes&distinct()
-status: up
-code: 200
-responseTime: 463
-lastUpdated: 2023-04-25T23:13:43.950Z
+status: down
+code: 404
+responseTime: 2066
+lastUpdated: 2023-04-26T03:32:28.442Z
 startTime: Tue Apr 11 2023 16:16:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
