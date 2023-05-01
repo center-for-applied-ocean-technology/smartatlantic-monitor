@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_cartwright_junction_nlqu0004.json?time&time>=now-2hours&distinct()
-status: up
-code: 200
-responseTime: 162
-lastUpdated: 2023-04-30T23:13:58.071Z
+status: down
+code: 404
+responseTime: 2236
+lastUpdated: 2023-05-01T20:55:08.848Z
 startTime: Tue Apr 11 2023 16:17:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
