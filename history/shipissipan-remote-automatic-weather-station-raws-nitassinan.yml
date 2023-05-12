@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/parks_canada_shipissipan.json?time&time>=now-2hour&distinct()
 status: up
 code: 200
-responseTime: 147
-lastUpdated: 2023-05-11T23:15:19.128Z
+responseTime: 78
+lastUpdated: 2023-05-12T23:13:47.517Z
 startTime: Tue Apr 11 2023 16:18:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
