@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_saint_john.json?time&time>=now-60minutes&distinct()
-status: down
-code: 404
-responseTime: 2117
-lastUpdated: 2023-05-13T17:23:49.388Z
+status: up
+code: 200
+responseTime: 1069
+lastUpdated: 2023-05-13T19:28:33.912Z
 startTime: Tue Apr 11 2023 16:18:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
