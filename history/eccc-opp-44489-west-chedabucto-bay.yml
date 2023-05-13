@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/eccc_opp_44489_west_chedabucto_bay.json?time&time>=now-60minutes&distinct()
-status: down
-code: 404
-responseTime: 2163
-lastUpdated: 2023-05-12T23:13:08.038Z
+status: up
+code: 200
+responseTime: 718
+lastUpdated: 2023-05-13T01:13:20.215Z
 startTime: Tue Apr 11 2023 16:16:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
