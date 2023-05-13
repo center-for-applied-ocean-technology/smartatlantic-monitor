@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/DFO_Sutron_POOLC.json?time&time>=now-2hours&distinct()
-status: down
-code: 404
-responseTime: 2141
-lastUpdated: 2023-05-13T08:15:15.724Z
+status: up
+code: 200
+responseTime: 673
+lastUpdated: 2023-05-13T08:26:23.653Z
 startTime: Tue Apr 11 2023 16:16:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
