@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SmartAtlantic_XEOS_hkb_buoy.json?time&time>=now-120minutes&distinct()
 status: up
 code: 200
-responseTime: 219
-lastUpdated: 2023-05-13T23:13:51.089Z
+responseTime: 213
+lastUpdated: 2023-05-14T23:15:12.165Z
 startTime: Tue Apr 11 2023 16:18:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
