@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_holyrood_shore_station.json?time&time>=now-10min&distinct()
-status: up
-code: 200
-responseTime: 850
-lastUpdated: 2023-05-19T13:30:44.697Z
+status: down
+code: 404
+responseTime: 2135
+lastUpdated: 2023-05-19T13:37:44.788Z
 startTime: Tue Apr 11 2023 16:17:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
