@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/DFO_Sutron_DOGIS.json?time&time>=now-2hours&distinct()
-status: up
-code: 200
-responseTime: 181
-lastUpdated: 2023-05-18T23:14:05.177Z
+status: down
+code: 503
+responseTime: 1071
+lastUpdated: 2023-05-19T18:36:07.757Z
 startTime: Tue Apr 11 2023 16:16:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
