@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/DFO_Sutron_KLUMI.json?time&time>=now-2hours&distinct()
 status: up
 code: 200
-responseTime: 334
-lastUpdated: 2023-05-19T18:43:50.006Z
+responseTime: 297
+lastUpdated: 2023-05-19T23:14:31.418Z
 startTime: Tue Apr 11 2023 16:18:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
