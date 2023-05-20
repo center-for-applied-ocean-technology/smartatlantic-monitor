@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_red_island_shoal.json?time&time>=now-8hours&distinct()
 status: down
 code: 404
-responseTime: 2113
-lastUpdated: 2023-05-19T23:14:24.157Z
+responseTime: 2068
+lastUpdated: 2023-05-20T23:13:44.249Z
 startTime: Tue Apr 11 2023 16:17:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
