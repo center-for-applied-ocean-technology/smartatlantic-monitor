@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/sma_negl_rigolet_nlqu0002.json?time&time>=now-2hours&distinct()
-status: up
-code: 200
-responseTime: 114
-lastUpdated: 2023-05-20T23:13:37.709Z
+status: down
+code: 404
+responseTime: 2221
+lastUpdated: 2023-05-21T08:53:02.566Z
 startTime: Tue Apr 11 2023 16:17:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
