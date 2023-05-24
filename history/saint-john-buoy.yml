@@ -1,7 +1,7 @@
 url: https://www.smartatlantic.ca/erddap/tabledap/SMA_saint_john.json?time&time>=now-60minutes&distinct()
 status: up
 code: 200
-responseTime: 1900
-lastUpdated: 2023-05-24T21:29:51.565Z
+responseTime: 1865
+lastUpdated: 2023-05-24T23:14:42.984Z
 startTime: Tue Apr 11 2023 16:18:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
