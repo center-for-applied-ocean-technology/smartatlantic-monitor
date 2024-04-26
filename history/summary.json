@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.60%",
     "time": 565,
-    "timeDay": 394,
-    "timeWeek": 513,
-    "timeMonth": 517,
-    "timeYear": 563,
+    "timeDay": 725,
+    "timeWeek": 561,
+    "timeMonth": 509,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2024-01-02": 1268,
       "2024-01-01": 1440,
@@ -27,8 +27,7 @@
       "2023-07-20": 16,
       "2023-07-07": 108,
       "2023-06-23": 17,
-      "2023-06-07": 95,
-      "2023-04-27": 18
+      "2023-06-07": 95
     }
   },
   {
@@ -37,14 +36,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "smart-atlantic-erddap",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.58%",
     "time": 335,
-    "timeDay": 59,
-    "timeWeek": 70,
+    "timeDay": 100,
+    "timeWeek": 77,
     "timeMonth": 102,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -60,8 +59,7 @@
       "2023-10-27": 25,
       "2023-07-07": 107,
       "2023-06-23": 26,
-      "2023-06-07": 76,
-      "2023-04-27": 17
+      "2023-06-07": 76
     }
   }
 ]
