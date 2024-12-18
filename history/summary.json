@@ -6,23 +6,21 @@
     "slug": "smart-atlantic",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
-    "time": 526,
-    "timeDay": 770,
-    "timeWeek": 688,
-    "timeMonth": 607,
+    "time": 525,
+    "timeDay": 740,
+    "timeWeek": 692,
+    "timeMonth": 610,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-12-17": 14,
       "2024-01-02": 1268,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 519,
-      "2023-12-19": 30
+      "2023-12-29": 519
     }
   },
   {
@@ -32,23 +30,21 @@
     "slug": "smart-atlantic-erddap",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 217,
     "timeDay": 88,
-    "timeWeek": 85,
+    "timeWeek": 86,
     "timeMonth": 108,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-12-17": 14,
       "2024-01-02": 1268,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 519,
-      "2023-12-19": 30
+      "2023-12-29": 519
     }
   }
 ]
