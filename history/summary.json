@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.smartatlantic.ca.ico",
     "slug": "smart-atlantic",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.22%",
-    "time": 550,
-    "timeDay": 257,
-    "timeWeek": 517,
-    "timeMonth": 547,
+    "uptimeYear": "99.50%",
+    "time": 549,
+    "timeDay": 475,
+    "timeWeek": 524,
+    "timeMonth": 548,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2025-11-29": 16,
@@ -26,8 +26,7 @@
       "2025-05-28": 49,
       "2025-05-17": 21,
       "2025-03-15": 608,
-      "2024-12-29": 188,
-      "2024-12-28": 1440
+      "2024-12-29": 188
     }
   },
   {
@@ -40,9 +39,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.50%",
     "time": 100,
-    "timeDay": 58,
+    "timeDay": 55,
     "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 99,
@@ -59,8 +58,7 @@
       "2025-05-28": 48,
       "2025-05-17": 21,
       "2025-03-15": 608,
-      "2024-12-29": 188,
-      "2024-12-28": 1440
+      "2024-12-29": 188
     }
   }
 ]
